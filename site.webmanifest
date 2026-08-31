@@ -1,0 +1,28 @@
+{
+  "name": "Instituto Lumini · Wellness Medical Center",
+  "short_name": "Instituto Lumini",
+  "description": "Wellness Medical Center dedicado a emagrecimento responsável, equilíbrio hormonal e medicina preventiva para a saúde da mulher, em Araguari (MG).",
+  "start_url": "/lumini-preview/",
+  "display": "standalone",
+  "background_color": "#E8E0D0",
+  "theme_color": "#E8E0D0",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/lumini-preview/assets/marca/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/lumini-preview/assets/marca/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/lumini-preview/assets/marca/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
